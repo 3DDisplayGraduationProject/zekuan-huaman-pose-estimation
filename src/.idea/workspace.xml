@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea9da084-a771-4a4e-8c25-5280bdd6a17f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/RunModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/RunModel.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bYgaBarIJfLdNgw1BDLKDPhElQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea9da084-a771-4a4e-8c25-5280bdd6a17f" name="Default Changelist" comment="" />
+      <created>1588814502061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588814502061</updated>
+      <workItem from="1588814504570" duration="394000" />
+      <workItem from="1588851333129" duration="2552000" />
+      <workItem from="1588856568307" duration="130000" />
+      <workItem from="1588899405314" duration="25000" />
+      <workItem from="1588987613109" duration="33000" />
+      <workItem from="1589072131593" duration="364000" />
+      <workItem from="1589073202398" duration="43000" />
+      <workItem from="1589073408386" duration="107000" />
+      <workItem from="1589286981737" duration="3000" />
+      <workItem from="1589286989494" duration="5000" />
+      <workItem from="1589287117990" duration="2330000" />
+      <workItem from="1589296259049" duration="47000" />
+      <workItem from="1589337181332" duration="161000" />
+      <workItem from="1589339398990" duration="9000" />
+      <workItem from="1589350102613" duration="30000" />
+      <workItem from="1589676926000" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1589676925559">
+      <screen x="0" y="23" width="1680" height="942" />
+    </state>
+    <state x="494" y="328" key="com.intellij.ide.util.TipDialog/0.23.1680.942@0.23.1680.942" timestamp="1589676925559" />
+  </component>
+</project>
